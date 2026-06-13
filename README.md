@@ -94,23 +94,13 @@ flowchart LR
 
 ---
 
-## Screenshots Plan
-
-> *To be captured from the private production app and added to `docs/screenshots/`.*
-
-- [ ] **Dashboard** — "what needs attention right now" (urgency counts, KPIs)
-- [ ] **Unified Inbox** — conversation list + active thread
-- [ ] **Lead Context Panel** — contact, source, score, activity timeline, AI summary
-- [ ] **Sales Pipeline** — kanban with deal cards
-- [ ] **Automation builder** — a trigger → action flow
-- [ ] **Analytics view** — operational metrics
-- [ ] **Mobile/responsive** — inbox on a phone
-
 ## Demo Strategy
 
-- **Guided product walkthrough video (2–3 min)** — the primary public artifact, narrating a lead's journey from first message to booked appointment.
-- **Annotated screenshots** of each surface (above).
-- **Private live sandbox tenant on request** — seeded with demo data, shared read-only with serious prospects (source stays private).
+Because the production SaaS stays private, this showcase communicates the system through:
+
+- **Architecture diagrams** (above) — multi-tenant request flow and the lead lifecycle.
+- **Guided product walkthrough** — a 2–3 min screen-share available on request, narrating a lead's journey from first message to booked appointment.
+- **Private, read-only sandbox tenant** for serious prospects.
 
 ---
 
